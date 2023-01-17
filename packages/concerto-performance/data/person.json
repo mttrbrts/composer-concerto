@@ -1,0 +1,39 @@
+{
+  "$class": "test.person.Person",
+  "firstName": "AcJnpKgUSqBEBpoRaSLxNSJMPMSBekqNhSXUb",
+  "lastName": "Exercitation nostrud labore.",
+  "address": {
+    "$class": "test.person.Address",
+    "$identifier": "1795",
+    "zip": 10001,
+    "zip2": 10001,
+    "zip3": 10001,
+    "city": "NYC",
+    "country": "USA",
+    "street": [
+      "Incididunt ea aliqua ut."
+    ],
+    "isResidential": true,
+    "isPrivate": false
+  },
+  "address2": {
+    "$class": "test.person.Address",
+    "$identifier": "5013",
+    "zip": 10001,
+    "zip2": 10001,
+    "zip3": 10001,
+    "city": "NYC",
+    "country": "USA",
+    "street": [
+      "Anim anim velit duis sint."
+    ],
+    "isResidential": true,
+    "isPrivate": false
+  },
+  "address3": "resource:test.person.Address#0737",
+  "address4": [
+    "resource:test.person.Address#7024"
+  ],
+  "gender": "FEMALE",
+  "$identifier": "resource1"
+}
